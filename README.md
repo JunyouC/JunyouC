@@ -6,4 +6,3 @@
 - 💬 Ask me about anything you would like to know 
 - 😄 Pronouns: Chen
 - ⚡ Fun fact: I am creating this repository and editing this read.me file just for class practice actually ... 😅
--->
