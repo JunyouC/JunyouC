@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m a current student at University of Chicago
-- 🌱 I’m currently learning R, and Python in the near future
-- 👯 I’m looking for RA opportunity 
+- 🌱 I write in R, Python, and SPSS
+- 👯 I’m looking for research related opportunities 
 - 💬 Ask me about anything you would like to know 
-- 😄 Pronouns: Chen
+- 😄 Pronouns: Chan
 - ⚡ Fun fact: I created this repository and editing this read.me file just for class practice actually ... 😅
