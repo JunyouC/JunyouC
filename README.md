@@ -8,3 +8,4 @@
    1. [*Patterns in suicide by marital status in Hong Kong, 2002–2020: Is marriage still a protective factor against suicide?*](https://www.sciencedirect.com/science/article/abs/pii/S0165032723012909)
    2. [*Tracking and Profiling Repeated Users Over Time in Text-Based Counseling: Longitudinal Observational Study With Hierarchical Clustering*](https://www.jmir.org/2024/1/e50976/)
 - 😄 Pronouns: Chen
+- One Fun Fact about me: I took a Chinese Class when studying in France and got a B!
